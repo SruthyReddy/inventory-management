@@ -17,10 +17,11 @@ This Django-based tool manages warehouse locations and inventory with commands f
 
 ## Setup Instructions
 
-1. **Extract zip and navigate to project**:
+1. **Clone or extract project folder**:
+
 ```bash
 cd inventory_management
-````
+```
 
 2. **Create virtual environment**:
 
