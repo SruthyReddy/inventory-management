@@ -87,25 +87,3 @@ python manage.py location_master UNREGISTER LA
 
 ````
 
----
-
-### 4️⃣ How to Make the Zip File
-
-1. Make sure your folder structure matches above.  
-2. On macOS/Linux:
-```bash
-cd ..
-zip -r inventory_management.zip inventory_management/
-````
-
-3. On Windows:
-
-* Right-click the `inventory_management` folder → Send to → Compressed (zipped) folder.
-
-This zip will contain everything needed: source code, requirements, management commands, and README.
-
----
-
-If you want, I can **also provide a ready-to-copy `location_master.py`, `stock_detail.py`, and `move_inventory.py` files** so the zip is fully runnable.
-
-Do you want me to do that next?
